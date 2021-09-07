@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Santiago Arellano.
-- 👀 I’m interested in game programming, but I usually work in mobile or web dev.
 - 🌱 I’m currently learning CMAKE and going through effective C++.
-- 💞️ I’m looking to collaborate on cool ideas (not crypto currencies, copys of other services, etc. Something new!)
+- 💞️ I’m looking to collaborate on cool ideas!
 - 📫 How to reach me: you can write to me at ssamdev039@gmail.com
 
 <!---
