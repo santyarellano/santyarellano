@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Santiago Arellano.
-- 🌱 I’m currently learning CMAKE and going through effective C++.
+- 🌱 I’m currently learning CMAKE and going through effective C++. Also looking forward to read Game Engine Architecture by Jason Gregory.
 - 💞️ I’m looking to collaborate on cool ideas!
 - 📫 How to reach me: you can write to me at ssamdev039@gmail.com
 
